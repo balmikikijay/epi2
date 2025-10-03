@@ -1,0 +1,25 @@
+{
+  "name": "2epiireact",
+  "version": "1.0.0",
+  "description": "boka",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balmikikijay/epi2.git"
+  },
+  "keywords": [
+    "reacr"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balmikikijay/epi2/issues"
+  },
+  "homepage": "https://github.com/balmikikijay/epi2#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  }
+}
